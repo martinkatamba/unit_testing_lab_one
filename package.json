@@ -1,0 +1,21 @@
+{
+  "name": "unit_testing_lab_one",
+  "version": "1.0.0",
+  "description": "testing unit testing with circleCI",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "testing",
+    "lab",
+    "with",
+    "circle",
+    "ci"
+  ],
+  "author": "Martin Katamba",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
